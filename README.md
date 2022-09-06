@@ -11,7 +11,4 @@
 * E-mail: max.heinrich.93@gmail.com
 * Discord: Mavir/Max#1651
 
-<!---
-Mavirk4c/Mavirk4c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
